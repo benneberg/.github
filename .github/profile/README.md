@@ -1,7 +1,8 @@
 # Lukas Benneberg
-### Software · Systems · AI · Edge 
+### Software · Systems · AI · Edge  
 
-I build software systems, developer tools, and experimental ideas at the intersection of **AI, distributed systems, edge computing, and human-centered technology**.
+
+>I build software systems, developer tools, and experimental ideas at the intersection of **AI, distributed systems, edge computing, and human-centered technology**.
 My interests tend to sit somewhere between engineering and exploration: understanding how complex systems work, finding simpler ways to reason about them, and turning unusual ideas into working prototypes.
 ---
 ## What I'm exploring
