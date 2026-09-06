@@ -25,8 +25,9 @@ A high-fidelity laboratory environment for experimenting with and simulating sig
 ### ARIP
 **AI Repository Intelligence Platform**
 An exploration of how repositories can become machine-readable systems through structural analysis, ASTs, embeddings and AI-assisted understanding.
-### Infographic Studio
-An experiment in deterministic, programmatic visual generation — exploring how useful visual artifacts can be generated from structured information without relying entirely on generative AI.
+### Infographic Studio  
+An experiment in deterministic, programmatic visual generation — exploring how useful visual artifacts can be generated from structured information without relying entirely on  generative AI.
+
 ---
 ## Experimental ideas
 Some of my projects start as engineering problems.
